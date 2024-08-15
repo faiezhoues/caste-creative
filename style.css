@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    background-color: #F5FDFF;
+}
+
+nav{
+    display:flex;
+    justify-content: space-around;
+    gap:20rem;
+    align-items: center;
+    margin-top: 1rem;
+   
+}
+
+nav #sarch ,ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+
